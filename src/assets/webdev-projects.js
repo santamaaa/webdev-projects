@@ -1,5 +1,6 @@
 import maknewsImg from './maknews.jpeg'
 import tokotokImg from './tokotok.jpeg'
+import infrientoryAPIImg from './infriendtory-api.jpeg'
 
 const webdevProjects = [
     {
@@ -19,6 +20,15 @@ const webdevProjects = [
         "img": tokotokImg,
         "url": "https://santamaa.github.io/tokotok",
         "tech": ["React", "Tailwind CSS", "DummyJSON"]
+    },
+    {
+        "id": 3,
+        "title": "Warehouse API",
+        "name": "Infriendtory API",
+        "desc": "Infriendtory API is a comprehensive backend system designed to manage warehouse operations, built using Flask, MongoDB, and JWT Extended. The API provides powerful CRUD (Create, Read, Update, Delete) functionality to handle key data entities within the warehouse environment, including items, item categories, and suppliers. Utilizing MongoDB for flexible data storage and Flask to create scalable and efficient endpoints, this API ensures secure and smooth data operations. JWT Extended is used for authentication and authorization.",
+        "img": infrientoryAPIImg,
+        "url": "https://santamaa-infriendtory-api.vercel.app",
+        "tech": ["Flask", "MongoDB", "JWT Extended"]
     }
 ]
 

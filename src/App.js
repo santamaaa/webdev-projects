@@ -53,10 +53,10 @@ function App() {
             </div>
             <div className="w-full">
                 <h2 className="text-3xl md:text-4xl font-semibold text-mywhite2 text-right">My Projects</h2>
-                <div className="w-full my-6 md:my-8 grid grid-cols-1 md:grid-cols-2 lg:flex lg:justify-end lg:flex-wrap gap-8 md:gap-8">
+                <div className="w-full my-6 md:my-8 grid grid-cols-1 md:flex md:flex-wrap md:justify-end gap-8">
                     {
                         webdevProjects.sort((a, b) => b.id - a.id).map((data, index) => (
-                            <div key={index} onClick={() => openModal(data)} className="w-full lg:max-w-[320px] relative flex flex-col gap-3 md:gap-4 cursor-pointer duration-200 hover:scale-105 group">
+                            <div key={index} onClick={() => openModal(data)} className="w-full md:w-[calc((100%-32px)/2)] lg:w-[calc((100%-64px)/3)] relative flex flex-col gap-3 md:gap-4 cursor-pointer duration-200 hover:scale-105 group">
                                 <img src={data.img} className="rounded-md grayscale group-hover:grayscale-0" alt={data.title} />
                                 <div className="w-full h-full absolute flex flex-col items-center justify-center gap-4 bg-myblack3/60 text-center group-hover:hidden">
                                     <h3 className="text-base md:text-lg font-semibold text-mywhite2">{data.title}</h3>
