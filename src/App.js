@@ -30,15 +30,15 @@ function App() {
     <div className="w-full min-h-screen flex justify-center bg-myblack3">
         <div className="w-full max-w-[1440px] px-6 md:px-20 lg:px-40">
             <div className="mt-4 md:mt-12 flex items-center justify-between">
-                <h2 className="text-mywhite2 text-xl md:text-2xl font-bold">Santamaa</h2>
-                <a className="pl-8 py-2 flex items-center text-right" href="https://santamaa.github.io/profile-page">
+                <h2 className="text-mywhite2 text-xl md:text-2xl font-bold">Santamaaa</h2>
+                <a className="pl-8 py-2 flex items-center text-right" href="https://santamaaa.github.io/profile-page">
                     <FontAwesomeIcon className="text-mywhite2 text-2xl ease-in duration-300 hover:scale-125" icon={ faArrowRight } />
                 </a>
             </div>
             <div className="my-20 md:my-36 lg:my-28 text-mywhite2 text-right">
                 <h1 className="text-4xl md:text-6xl font-extrabold">I am</h1>
                 <h1 className="mt-2 mb-6 md:mb-12 text-4xl md:text-6xl font-extrabold">Web Developer</h1>
-                <p className="text-xs md:text-sm lg:tracking-wide">I am a web development enthusiast who is always eager to explore the latest technologies and trends in the web development world. Although I am not yet a professional web developer, I am actively learning various programming such as HTML, CSS, JavaScript, Python, SQL, and NoSQL, as well as popular frameworks and libraries such as Bootstrap, Tailwind CSS, jQuery, React, and Flask. I often spend my free time working on personal projects and taking online courses. With a deep interest in both front-end and back-end development, I am committed to continually learning and growing in this field, with the hope of one day contributing professionally to the web development industry.</p>
+                <p className="text-xs md:text-sm/6  lg:tracking-wide">I'm a web development enthusiast actively learning both front-end and back-end technologies. I'm building skills in HTML, CSS, JavaScript, Python, SQL, NoSQL, and tools like React, Vue.js, Nuxt, Flask, and FastAPI. I spend my free time on personal projects and online courses, driven by a strong passion to grow and eventually contribute to the web development industry.</p>
                 <div className="mt-12 md:mt-20 flex justify-end gap-4 md:gap-8">
                     <a className="w-10 md:w-12 h-10 md:h-12 grid place-items-center border-2 border-mywhite2 rounded-full bg-mywhite2 text-myblack3 text-xl md:text-2xl ease-in duration-300 hover:bg-myblack3 hover:text-mywhite2 hover:scale-125" href="https://instagram.com/santamaaa" target="_blank" rel="noreferrer">
                         <FontAwesomeIcon icon={ faInstagram } />
@@ -46,7 +46,7 @@ function App() {
                     <a className="w-10 md:w-12 h-10 md:h-12 grid place-items-center border-2 border-mywhite2 rounded-full bg-mywhite2 text-myblack3 text-xl md:text-2xl ease-in duration-300 hover:bg-myblack3 hover:text-mywhite2 hover:scale-125" href="https://linkedin.com/in/santamajati" target="_blank" rel="noreferrer">
                         <FontAwesomeIcon icon={ faLinkedinIn } />
                     </a>
-                    <a className="w-10 md:w-12 h-10 md:h-12 grid place-items-center border-2 border-mywhite2 rounded-full bg-mywhite2 text-myblack3 text-xl md:text-2xl ease-in duration-300 hover:bg-myblack3 hover:text-mywhite2 hover:scale-125" href="https://github.com/santamaa" target="_blank" rel="noreferrer">
+                    <a className="w-10 md:w-12 h-10 md:h-12 grid place-items-center border-2 border-mywhite2 rounded-full bg-mywhite2 text-myblack3 text-xl md:text-2xl ease-in duration-300 hover:bg-myblack3 hover:text-mywhite2 hover:scale-125" href="https://github.com/santamaaa" target="_blank" rel="noreferrer">
                         <FontAwesomeIcon icon={ faGithub } />
                     </a>
                 </div>
@@ -88,9 +88,9 @@ function App() {
                     )
                 }
             </div>
-            <div className="mt-6 mb-3 py-4 md:mt-12 md:mb-6 flex items-center justify-end gap-1 text-mywhite2">
+            <div className="mt-20 mb-10 flex items-center justify-end gap-1 text-mywhite2">
                 <span className="text-md">&copy;</span>
-                <span className="text-xs">Copyright Santamaa</span>
+                <span className="text-xs">Copyright Santamaaa</span>
                 <CurrentYear />
             </div>
         </div>
