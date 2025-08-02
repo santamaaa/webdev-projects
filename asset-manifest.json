@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/projects-webdev/static/css/main.a97f088c.css",
-    "main.js": "/projects-webdev/static/js/main.e8faa07d.js",
+    "main.css": "/projects-webdev/static/css/main.620c5a64.css",
+    "main.js": "/projects-webdev/static/js/main.de92bab2.js",
     "static/media/infriendtory-dashboard.png": "/projects-webdev/static/media/infriendtory-dashboard.319167f559da18ca4edc.png",
     "static/media/tokotok.jpeg": "/projects-webdev/static/media/tokotok.dc781fbd9109ab0a79ac.jpeg",
     "static/media/infriendtory-api.jpeg": "/projects-webdev/static/media/infriendtory-api.113be1c3ec3d7b7655b3.jpeg",
     "static/media/maknews.jpeg": "/projects-webdev/static/media/maknews.e34fc03a3244f4ceda2c.jpeg",
     "index.html": "/projects-webdev/index.html",
-    "main.a97f088c.css.map": "/projects-webdev/static/css/main.a97f088c.css.map",
-    "main.e8faa07d.js.map": "/projects-webdev/static/js/main.e8faa07d.js.map"
+    "main.620c5a64.css.map": "/projects-webdev/static/css/main.620c5a64.css.map",
+    "main.de92bab2.js.map": "/projects-webdev/static/js/main.de92bab2.js.map"
   },
   "entrypoints": [
-    "static/css/main.a97f088c.css",
-    "static/js/main.e8faa07d.js"
+    "static/css/main.620c5a64.css",
+    "static/js/main.de92bab2.js"
   ]
 }
