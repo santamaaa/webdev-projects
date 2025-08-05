@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/webdev-projects/static/css/main.620c5a64.css",
-    "main.js": "/webdev-projects/static/js/main.2914d049.js",
+    "main.js": "/webdev-projects/static/js/main.c4e1d770.js",
     "static/media/infriendtory-dashboard.png": "/webdev-projects/static/media/infriendtory-dashboard.319167f559da18ca4edc.png",
     "static/media/tokotok.jpeg": "/webdev-projects/static/media/tokotok.dc781fbd9109ab0a79ac.jpeg",
     "static/media/infriendtory-api.jpeg": "/webdev-projects/static/media/infriendtory-api.113be1c3ec3d7b7655b3.jpeg",
     "static/media/maknews.jpeg": "/webdev-projects/static/media/maknews.e34fc03a3244f4ceda2c.jpeg",
     "index.html": "/webdev-projects/index.html",
     "main.620c5a64.css.map": "/webdev-projects/static/css/main.620c5a64.css.map",
-    "main.2914d049.js.map": "/webdev-projects/static/js/main.2914d049.js.map"
+    "main.c4e1d770.js.map": "/webdev-projects/static/js/main.c4e1d770.js.map"
   },
   "entrypoints": [
     "static/css/main.620c5a64.css",
-    "static/js/main.2914d049.js"
+    "static/js/main.c4e1d770.js"
   ]
 }
