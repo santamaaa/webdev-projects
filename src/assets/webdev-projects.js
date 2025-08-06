@@ -45,10 +45,10 @@ const webdevProjects = [
         "id": 5,
         "title": "All-In-One Tools",
         "name": "Sanvirontment",
-        "desc": "",
+        "desc": "In Development",
         "img": sanvirontmentImg,
         "url": "",
-        "tech": ["In Development"]
+        "tech": []
     }
 ]
 
