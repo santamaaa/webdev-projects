@@ -10,8 +10,11 @@ function App() {
   const [selectedData, setSelectedData] = useState(null)
 
   const openModal = (data) => {
-      setModalIsOpen(true)
-      setSelectedData(data)
+      if (data.tech != "In Development") {
+          setModalIsOpen(true)
+          setSelectedData(data)
+      }
+      return
   }
 
   const closeModal = () => {

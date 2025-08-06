@@ -2,6 +2,7 @@ import maknewsImg from './maknews.jpeg'
 import tokotokImg from './tokotok.jpeg'
 import infrientoryAPIImg from './infriendtory-api.jpeg'
 import infrientoryDashboardImg from './infriendtory-dashboard.png'
+import sanvirontmentImg from './sanvirontment.png'
 
 const webdevProjects = [
     {
@@ -39,6 +40,15 @@ const webdevProjects = [
         "img": infrientoryDashboardImg,
         "url": "https://santamaaa.github.io/infriendtory-dashboard/",
         "tech": ["React", "TailwindCSS"]
+    },
+    {
+        "id": 5,
+        "title": "All-In-One Tools",
+        "name": "Sanvirontment",
+        "desc": "",
+        "img": sanvirontmentImg,
+        "url": "",
+        "tech": ["In Development"]
     }
 ]
 
